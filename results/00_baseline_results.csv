@@ -1,0 +1,6 @@
+model,total_return,ann_return,ann_vol,sharpe,sortino,max_drawdown,calmar,win_rate,profit_factor,turnover,alpha,beta,var_95,cvar_95
+EqualWeight,,,,0.0,,,,0.5589,1.2382,0.0,0.0,0.0,,
+MeanVariance,,,,0.0,,,,0.677,3.1968,1.26,0.0,0.0,,
+Linear+MVO,,,,0.0,,,,0.677,4.4366,94.6219,0.0,0.0,,
+XGBoost+MVO,,,,0.0,,,,0.7081,2.7994,96.6098,0.0,0.0,,
+LSTM+MVO,,,,0.0,,,,0.6957,3.9552,64.5637,0.0,0.0,,

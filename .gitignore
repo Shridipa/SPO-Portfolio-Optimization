@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore large datasets and models if necessary
+# data/raw/*.csv
+# saved_models/
+# results/
